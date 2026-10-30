@@ -8,7 +8,7 @@ Este repositório reúne meu portfólio pessoal, onde apresento projetos, habili
 
 ## 🚀 Meu Portfólio
 
-🌐 **Acesse meu portfólio online:** `COLE_AQUI_O_LINK_DO_SEU_SITE`
+🌐 **Acesse meu portfólio online:** [Link do Portfolio](https://miguel-wanzeler.github.io/meu_portfolio/)
 
 ## 🛠️ Tecnologias e Ferramentas
 
